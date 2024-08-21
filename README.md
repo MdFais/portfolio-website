@@ -7,6 +7,11 @@
 
 # Overview of the Project
 
+
+
+![Screenshot 2024-08-21 160437](https://github.com/user-attachments/assets/e4c2eed7-65b0-4861-8a8a-2885771c46a1)
+
+
 # 1. Objective:
 
 A portfolio website is a personal website that showcases an individual’s skills, work, and professional achievements. It serves as an online resume, allowing visitors to view your projects, experience, and contact information. Here’s an overview of what a portfolio website project typically includes:
@@ -43,4 +48,4 @@ A well-designed portfolio website enhances your online presence, makes a strong 
 
 
 
-![Screenshot 2024-08-21 160437](https://github.com/user-attachments/assets/bbd567ba-45a0-4cd9-86a8-59e43614a02d)
+

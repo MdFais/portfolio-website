@@ -1,5 +1,5 @@
 # Name: MD FAISAL
-# Company: COODTECH IT SOLUTIONS
+# Company: CODTECH IT SOLUTIONS
 # ID: CT6WDS1478
 # Domain: Web Devlopment
 # Duration: August to September 2024

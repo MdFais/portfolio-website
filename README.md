@@ -1,9 +1,3 @@
-# Name: MD FAISAL
-# Company: CODTECH IT SOLUTIONS
-# ID: CT6WDS1478
-# Domain: Web Devlopment
-# Duration: August to September 2024
-# Mentor: Muzammil Ahmed
 
 # Overview of the Project
 
